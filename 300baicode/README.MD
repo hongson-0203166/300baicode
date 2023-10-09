@@ -1,5 +1,5 @@
-#  300baicode
-**Thieu Nhi
+# 300baicode
+**Thieu Nhi**
 [Topdev](https://topdev.vn/blog/markdown-la-gi-cach-su-dung-markdown/)
 - cam
 - quýt
